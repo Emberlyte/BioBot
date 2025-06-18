@@ -1,0 +1,4 @@
+spring.application.name=        # YOUR_PROJECT_NAME_HERE/ВАШЕ_ИМЯ_ПРОЕКТА
+
+telegram.bot.token=             # YOUR_TELEGRAM_BOT_TOKEN_HERE/ВАШ_ТОКЕН_БОТА
+
